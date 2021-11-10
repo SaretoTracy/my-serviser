@@ -127,3 +127,15 @@ margin-top: 50px;
 .contact div:first-child p{
     font-weight: 300;
 }
+.form{
+    background-color:white;
+    margin: 5rem 20rem;
+    width: 700px;
+    height: 300px;
+    padding-left: 2rem;
+    
+}
+.form button {
+    align-items: center;
+    margin: 2rem 1rem;
+}
