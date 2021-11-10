@@ -116,3 +116,14 @@ button{
     display: flex;
 margin-top: 50px;
 }
+.foot {
+    background-color: #2f72ff;
+}
+.contact div:first-child{
+    padding: 3rem;
+    color: white;
+
+}
+.contact div:first-child p{
+    font-weight: 300;
+}
