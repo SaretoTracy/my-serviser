@@ -139,3 +139,10 @@ margin-top: 50px;
     align-items: center;
     margin: 2rem 1rem;
 }
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0,.5);
+    height: 7vh;
+    padding: 1rem;
+    color: white;
+}
