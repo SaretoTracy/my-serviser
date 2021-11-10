@@ -62,3 +62,26 @@ button{
     border: 1px  solid white;
 
 }
+.delivery {
+    display: flex;
+
+}
+.delivery div {
+    padding: 5rem;
+    line-height: 3rem;
+    justify-content: space-around;
+}
+.delivery div p {
+    line-height: 2rem;
+    font-weight: normal;
+}
+.Quality {
+    background-image: url("images/Rectangle\ 11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+    color: white;
+    line-height: 2.5rem;
+    padding: 10rem;
+}
