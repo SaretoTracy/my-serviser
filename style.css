@@ -38,3 +38,27 @@ button{
     background-color: #2f72ff;
     border: 1px solid #2f72ff;
 }
+.home{
+    background-image: url("images/bg.png");
+    height: 80vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+.home div h1 {
+    padding: 4rem;
+}
+.home div p{
+    line-height: 2rem;
+    
+}
+.btn {
+    padding: 2rem;
+    
+}
+.btn button:last-child{
+    background: transparent;
+    border: 1px  solid white;
+
+}
